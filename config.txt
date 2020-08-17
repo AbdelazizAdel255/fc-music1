@@ -1,5 +1,5 @@
 token=
-prefix=
-owner=
+prefix=$
+owner=550757915154186250
 stayinchannel=true
 updatealerts=false
